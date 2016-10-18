@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loadingText">Please Wait Loading </string>
+    <string name="network_error_title">Error : -</string>
+    <string name="network_error_text">Unable to communicate with our server. \n Please go to settings and turn on internet!</string>
+    <string name="activity_signup_type_title">Select Type :</string>
+    <color name="white">#fff</color>
+
+</resources>
